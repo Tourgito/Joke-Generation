@@ -1,6 +1,5 @@
 # Generation
-<b>GeneratedJokes.csv</b> -> CSV dataframe containing hyperparameters for generation, a seed text and a generated output text.
-<br>Based on seed.csv.
+<b>GeneratedJokes.csv</b> -> CSV dataframe containing hyperparameters for generation, a seed text and a generated output text. Based on seed.csv.
 
 <b>generate.py</b> -> Contains generative code.
 <br>A trained model, an index2word dictionary, a word2index dictionary and a seed dataframe are loaded to generate text. 
