@@ -1,11 +1,9 @@
-jokesAfterPreprocessing -> The final dataset after the preprocessing phase, which we use to train the joke generation and joke classification models.
+# Classification 
 
-ModelsTraining_ClassificationTask.py -> The code which trains the classification models and saves the Logistic regression model.
+<b>ModelsTraining_ClassificationTask.py</b> -> The code which trains the classification models and saves the Logistic regression model.
 
-LogisticRegressionModel.sav -> The Logistic regression model.
+<b>LogisticRegressionModel.sav</b> -> The Logistic regression model.
 
-GeneratedJokes.csv -> The file that contains the generated jokes, which hasn't categorized yet.
+<b>GeneratedJokes.csv</b> -> The file that contains the generated jokes, which hasn't categorized yet.
 
-GeneratedJokesClassification.py -> The code that categorized the generated jokes and archives them in a file.
-
-ClassifiedGeneratedJokes.csv -> The file that contains the generated jokes, with their categories now.
+<b>GeneratedJokesClassification.py</b> -> The code that categorized the generated jokes and archives them in a file.
