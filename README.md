@@ -18,3 +18,13 @@ In order to implement our objective, we had to solve two tasks: 1) <b>joke gener
 
 <ul> <li> Logistic regression </li> </ul>
 
+# Files
+
+<ul>
+  <li> data -> Contains the jokes datasets </li>
+  <li> preprocessing -> Contains the code that preprocess the jokes datasets </li>
+  <li> generation -> Contains the code that creates the LSTM, which generates the new jokes </li>
+  <li> classification -> Contains the code that creates the logistic regression model, which classifies the generated jokes to categories </li>
+
+</ul>
+
