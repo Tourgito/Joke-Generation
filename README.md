@@ -1,6 +1,6 @@
 # Joke-Generation
 
-A project that I created with two clasmmates for my postgraduate, more precisely, the course of Natural Language Processing (NLP).  
+A project that I created with two clasmmates for my postgraduate, more precisely, the course of <b>Natural Language Processing</b> (NLP).  
 
 # Objective
 
